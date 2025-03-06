@@ -1,4 +1,4 @@
-# 🍣 Japanese Food
+# 🍣 Japonese Food
 
 Este é um projeto simples de **landing page** para um restaurante fictício de comida japonesa, desenvolvido com **HTML** e **CSS**.
 
