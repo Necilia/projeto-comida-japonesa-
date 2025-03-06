@@ -10,8 +10,8 @@ Este é um projeto simples de **landing page** para um restaurante fictício de 
 ## 🎨 Sobre o projeto
 
 A página apresenta um design minimalista e contém:
-- Um título com nome **"Japanese Food"**;
-- Uma frase de destaque: *"OS melhores sabores de comida japonesa a um clique de distância."*;
+- Um título com nome **"Japonese Food"**;
+- Uma frase de destaque: *"Os melhores sabores de comida japonesa a um clique de distância."*;
 - Um botão **"Fazer meu pedido"**, que ao ser clicado redireciona para um número fictício no WhatsApp.
 
 ## 📌 Como visualizar o projeto
