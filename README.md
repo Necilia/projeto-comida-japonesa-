@@ -22,3 +22,7 @@ A página apresenta um design minimalista e contém:
     ```
 
 2. **Abra o arquivo `index.html`** em qualquer navegador.
+
+## 📜 Nota 
+Este projeto foi desenvolvido durante a NLW da Rocketseat, com fins educacionais.
+
